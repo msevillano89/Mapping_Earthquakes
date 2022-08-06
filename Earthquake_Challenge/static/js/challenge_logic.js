@@ -215,7 +215,7 @@ let lineLink = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/G
 
 // Style for Lines
 let lineStyle = {
-  color: "#ea2c2c",
+  color: "#cc0000",
   weight: 3
   };
   // 3. Use d3.json to make a call to get our Tectonic Plate geoJSON data.
